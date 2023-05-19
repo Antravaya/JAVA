@@ -17,5 +17,3 @@ public class Business_Check_ISBN13 {
 		return s+checksum;
 	}
 }
-
-/*10 - (d[0] + 3 * d[1] + d[2] + 3 * d[3] + d[4] + 3 * d[5] + d[6] + 3 * d[7] + d[8] + 3 * d[9] + d[10] + 3 * d[11]) % 10;*/
