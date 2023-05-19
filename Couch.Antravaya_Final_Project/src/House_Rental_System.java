@@ -1,12 +1,3 @@
-/****************************************
-* Student Name: Antravaya Couch
-* Date Due: May 3, 2023 
-* Date Submitted: May 3, 2023
-* Program Name: Hotel_Rental_System
-* Program Description: This program acts as a house rental
-* system. The client can add homes onto the program
-* and distribute them to users for renting.
-****************************************/
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
